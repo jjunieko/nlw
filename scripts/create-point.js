@@ -16,8 +16,8 @@ function populateUFs() {
 populateUFs()
 
 function getCities(event) {
-    const citySelect = document.querySelector("[nome=city]")
-    const stateInput = document.querySelector("[nome=state]")
+    const citySelect = document.querySelector("[name=city]")
+    const stateInput = document.querySelector("[name=state]")
 
     const ufValue = event.target.Value
 

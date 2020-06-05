@@ -23,14 +23,14 @@ body::after {
     align-items: center;
 }
 
-#page-create-point header a {
+#page-search-result header a {
     color: var(--title-color);
     font-weight: bold;
     display: flex;
     align-items: center;
 }
 
-#page-create-point header a span {
+#page-search-result header a span {
     margin-right: 16px;
     background-image: url('../assets/arrow-left.svg');
     display: flex;

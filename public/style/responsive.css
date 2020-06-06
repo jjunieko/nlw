@@ -1,10 +1,16 @@
-@media(max-width: 900px) {
+@media(max-width: 600px) {
     #page-home {
         background-position: 70vw;
     }
     #page-home .content {
         align-items: center;
         text-align: center;
+    }
+    #page-home header {
+        margin-top: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
     }
     #page-home header a {
         position: absolute;
@@ -20,6 +26,12 @@
     }
     #page-search-result .cards img {
         height: 250px;
+    }
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+    #page-create-point .field-group .field+.field {
+        margin-left: 0;
     }
 }
 

@@ -18,7 +18,7 @@ A work developed by #Rockeaseat to help understand the concepts better.
 
 Learn more at Fullstack and its tools as:
 
-Nunjuks, express, sqlite3, CSS, HTML among others.
+Nunjuks, express, sqlite3, CSS, HTML, others.
 
 This work helped me to grow my ideas and mature new projects.
 

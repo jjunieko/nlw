@@ -4,7 +4,7 @@ Um trabalho desenvolvido pela #Rockeaseat para ajudar entender melhor os conceit
 
 Nele tabalhamos a parte Fullstack e suas ferramentas como:
 
-Nunjuks, express, sqlite3,CSS, HTML dentre outros.
+ HTML, CSS, JavaScript, Nunjuks, express, sqlite3 dentre outros.
 
 Este trabalho me ajudou a crescer ainda minhas ideias e amadurecer novos projetos.
 
@@ -18,7 +18,7 @@ A work developed by #Rockeaseat to help understand the concepts better.
 
 Learn more at Fullstack and its tools as:
 
-Nunjuks, express, sqlite3, CSS, HTML, others.
+HTML, CSS, JavaScript, Nunjuks, express, sqlite3 others.
 
 This work helped me to grow my ideas and mature new projects.
 
